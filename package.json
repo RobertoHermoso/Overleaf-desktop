@@ -1,0 +1,24 @@
+{
+  "name": "overleaf-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron-packager": "^14.2.0",
+    "electron-prebuilt": "^1.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoHermoso/Overleaf-desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoHermoso/Overleaf-desktop/issues"
+  },
+  "homepage": "https://github.com/RobertoHermoso/Overleaf-desktop#readme"
+}
